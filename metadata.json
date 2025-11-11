@@ -1,0 +1,5 @@
+
+{
+  "name": "Quiz Management System",
+  "description": "A comprehensive Quiz Management System with separate Student and Admin roles. Students can take quizzes, view history, and retry failed attempts. Admins can create, manage quizzes, and view student performance analytics."
+}

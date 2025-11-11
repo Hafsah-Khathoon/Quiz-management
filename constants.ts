@@ -1,0 +1,2 @@
+
+export const PASSING_SCORE_PERCENTAGE = 50;
